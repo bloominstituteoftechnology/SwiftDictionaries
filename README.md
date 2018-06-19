@@ -1,8 +1,8 @@
 # SwiftCollections
 
-This project will help you practice the skills and concepts you learned related to strings in Swift. For this project you'll build an app with a text field for the user to enter a string. When they tap the button, you're app should check to see if the string may entered is the palindrome. If it is a palindrome, it should update a label to say "[string] is a palindrome!" where `[string]` is the string the user entered. Spaces in the input string should be ignored.
+This project will help you practice the skills and concepts you learned related to strings in Swift. For this project you'll build an app with a text field for the user to enter a word. When they tap the button, the app will look for synonyms for the entered word, and will display them in a text view if any are found.
 
-> A palindrome is a word or phrase that is the same whether spelled forward or backwards, for example `madam`, `racecar`, or `was it a rat i saw`.
+> A synonym is a word with the same meaning as another word. For example, `difficult` and `hard` are synonyms.
 
 ### Create an Xcode Project
 

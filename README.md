@@ -24,7 +24,7 @@ This project will help you practice the skills and concepts you learned related 
 1. Create an IBAction for the button in ViewController.swift
 2. Create IBOutlets for both the text field and the text view in ViewController.swift
 
-### Write A Palindrome Checker Function
+### Write A Thesaurus Lookup Function
 
 1. Create a new file called "Thesaurus.swift"
 2. Create a variable that is a dictionary where each key is a word, and each value is an array of strings that are synonyms of the key word. If you need help getting started, you can copy and paste the list found [here](https://github.com/LambdaSchool/SwiftCollections/blob/master/Synonyms.swift). Feel free to add any additional words that you'd like.
